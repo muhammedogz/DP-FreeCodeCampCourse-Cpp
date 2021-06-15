@@ -1,4 +1,4 @@
-# DP-freeCodingCampCourse-Cpp
+# DP-FreeCodeCampCourse-Cpp
 Implement examples in Javascript to C++ in Dynamic Programing course at freeCodingCamp Youtube Channel
 
 In Course, Instructor writes examples in JavaScript. This repo converts them into C++ Implementations.
